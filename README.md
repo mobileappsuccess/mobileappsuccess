@@ -119,7 +119,9 @@ Finally, for _number of ratings_, participants also think it has issues since no
 When comparing preferences between internal metrics and online store metrics, respondents agreed both metrics are important, respondent S38 mentioned they are complementary: _"Ambas, ya que presentan una manera diferente pero complementaria de ver el comportamiento de los usuarios frente a la aplicación desde funcionamiento y desde dinámicas de comportamiento general de la población (oferta, demanda, inconformidad con apps existentes...)"_, and participant S17 affirmed that both metrics should be kept high to provide a good app and used an example of a trending game: _"Siento que son importantes ambas acciones. Las métricas de las tiendas dan una idea de la posición de una app con respecto a las otras, lo que da opción a un análisis de estudio frente a la competencia para poder definir nuevos features. Las métricas del producto ayudan a medir la calidad del producto, y como ingeniero de software enfocado al testing siento que es muy importante la calidad de un producto porque puede aportar una mejor experiencia de usuario a las personas que hacen uso del aplicativo. Con pruebas insuficientes puede haber escenarios que lleguen a impactar negativamente la experiencia, como por ejemplo el juego de moda "JuegoNombre" que no estaba preparado para la concurrencia de usuarios que empezaron a usar la aplicación de un día para el otro."_
 </p><br/>
 
+
 ### RQ3 - What features would practitioners like in a tool that helps to measure/monitor mobile app success?
+
 The main features were presented in the paper, however, the following figure depicts a wordcloud of the words used in the original language:
 ![rq3-wordcloud-es](https://user-images.githubusercontent.com/83440541/116963124-910ea180-ac6d-11eb-824e-5380ce1889ed.png)
 
