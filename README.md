@@ -115,6 +115,10 @@ For _position in top charts_, S10 considers it as a semi relevant metric, since:
 Finally, for _number of ratings_, participants also think it has issues since not all users rate the app, in particular, participant S1 mentioned: _"Aunque ayuda a tener mejores opiniones que se exponen a los usuarios, no me parece que sea directamente proporcional al valor de la app ya que puede que tengas un montón de usuarios que les gusta la app pero simplemente no han querido calificar."_
 </p><br/>
 
+Also, the next wordcloud presents the tags that were assigned by the authors:
+
+![rq3-wordcloud-en](https://user-images.githubusercontent.com/83440541/116963155-a257ae00-ac6d-11eb-97db-bc80056b96ee.png)
+
 <p align="justify">
 When comparing preferences between internal metrics and online store metrics, respondents agreed both metrics are important, respondent S38 mentioned they are complementary: _"Ambas, ya que presentan una manera diferente pero complementaria de ver el comportamiento de los usuarios frente a la aplicación desde funcionamiento y desde dinámicas de comportamiento general de la población (oferta, demanda, inconformidad con apps existentes...)"_, and participant S17 affirmed that both metrics should be kept high to provide a good app and used an example of a trending game: __"Siento que son importantes ambas acciones. Las métricas de las tiendas dan una idea de la posición de una app con respecto a las otras, lo que da opción a un análisis de estudio frente a la competencia para poder definir nuevos features. Las métricas del producto ayudan a medir la calidad del producto, y como ingeniero de software enfocado al testing siento que es muy importante la calidad de un producto porque puede aportar una mejor experiencia de usuario a las personas que hacen uso del aplicativo. Con pruebas insuficientes puede haber escenarios que lleguen a impactar negativamente la experiencia, como por ejemplo el juego de moda "JuegoNombre" que no estaba preparado para la concurrencia de usuarios que empezaron a usar la aplicación de un día para el otro."__
 </p>
@@ -126,6 +130,4 @@ The main features were presented in the paper, however, the following figure dep
 
 ![rq3-wordcloud-es](https://user-images.githubusercontent.com/83440541/116963124-910ea180-ac6d-11eb-824e-5380ce1889ed.png)
 
-Also, the next wordcloud presents the tags that were assigned by the authors:
 
-![rq3-wordcloud-en](https://user-images.githubusercontent.com/83440541/116963155-a257ae00-ac6d-11eb-97db-bc80056b96ee.png)
