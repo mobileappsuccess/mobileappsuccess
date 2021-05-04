@@ -89,9 +89,6 @@ The following wordcloud depicts the results from the survey in the original resp
 Also, the next wordcloud shows the tags assigned by the authors:
 ![rq1-wordcloud-en](https://user-images.githubusercontent.com/83440541/116957359-50a72780-ac5d-11eb-8e2a-ae811827327f.png)
 
- Also, the next wordcloud presents the tags that were assigned by the authors:
-
-![rq3-wordcloud-en](https://user-images.githubusercontent.com/83440541/116963155-a257ae00-ac6d-11eb-97db-bc80056b96ee.png)
 ### RQ2 - What metrics are used by practitioners to measure mobile app success?
 
 Regarding monitoring frequency of online store metrics, the following imaga depicts survey participants frequency:
@@ -128,4 +125,8 @@ When comparing preferences between internal metrics and online store metrics, re
 The main features were presented in the paper, however, the following figure depicts a wordcloud of the words used in the original language:
 
 ![rq3-wordcloud-es](https://user-images.githubusercontent.com/83440541/116963124-910ea180-ac6d-11eb-824e-5380ce1889ed.png)
+
+ Also, the next wordcloud presents the tags that were assigned by the authors:
+
+![rq3-wordcloud-en](https://user-images.githubusercontent.com/83440541/116963155-a257ae00-ac6d-11eb-97db-bc80056b96ee.png)
 
