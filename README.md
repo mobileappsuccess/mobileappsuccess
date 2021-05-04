@@ -75,9 +75,13 @@ In [this link](https://figshare.com/articles/software/Mobile_Apps_Succes_Survey/
 ## Results
 
 ### RQ1 - How do practitioners define mobile app success?
+<p align="justify">
 As mentioned in the paper, one of the most mentioned topic when defining success was user experience. In particular, S17 stated _"...To make a successful app, some attributes are required, eye-catching interface and color palette but at the same time easy to use. It is also important that it is an app developed for Android and iOS, as that increases the possibility of reaching a greater number of users. The issue of data security is also important if it is an app that can store important user information, such as the credit card number and the information related to it"_, the original response in Spanish was _"...Se requieren ciertos atributos que puedan hacer que sea exitosa, desde una interfaz y paleta de colores llamativa pero al mismo tiempo sea fácil de usar. También es importante que sea una aplicación desarrollada para Android y iOS, pues eso aumenta la posibilidad de llegar a una mayor cantidad de usuarios. Es importante también el tema de la seguridad de los datos si es una aplicación que pueda llegar a almacenar información importante del usuario, como el número de tarjeta de crédito y la información referente a ésta."_
+</p><br/>
 
+<p align="justify">
 Regarding the _Value for users_ cluster, S19 affirmed: _"Defino el éxito de una aplicación por el valor que genera a los usuarios <...> es decir su capacidad para simplificar un problema, mejorar calidad de vida, crear interacciones significativas, soportar un proceso, entre otros."_, whose translation to English was presented in the paper: _“I define the success of an application by the value it generates to users <...> its ability to simplify a problem, improve quality of life, create meaningful interactions, support a process, among others.”_. Besides, participant S1 mentioned: _"Idea innovadora que no había en el mercado hasta el momento..."_, also we cited it in the paper: _"Innovative idea that was not on the market so far..."_.
+</p><br/>
 
 The following wordcloud depicts the results from the survey in the original responses in Spanish, it can be seen that the most mentioned words are related with design, usability, problem, quality as we found out through our open coding technique:
 
@@ -88,7 +92,10 @@ Also, the next wordcloud shows the tags assigned by the authors:
 ![Wordcloud English RQ1](https://github.com/mobileappsuccess/mobileappsuccess/blob/gh-pages/imgs/rq1-wordcloud-en.png "Wordcloud RQ1 English")
 
 ### RQ2 - What metrics are used by practitioners to measure mobile app success?
-Puntos importantes de encuestas, respuestas que dieron en español
+
+Regarding monitoring frequency of internal metrics, the following imaga depicts survey participants frequency:
+![Online store metrics - Monitoring frequency](https://user-images.githubusercontent.com/83440541/116956828-e5a92100-ac5b-11eb-85af-d27a747cd555.png)
+
 
 ### RQ3 - What features would practitioners like in a tool that helps to measure/monitor mobile app success?
 Puntos importantes de encuestas, respuestas que dieron en español
