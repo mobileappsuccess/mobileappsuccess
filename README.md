@@ -84,34 +84,44 @@ Regarding the _Value for users_ cluster, S19 affirmed: _"Defino el éxito de una
 </p><br/>
 
 The following wordcloud depicts the results from the survey in the original responses in Spanish, it can be seen that the most mentioned words are related with design, usability, problem, quality as we found out through our open coding technique:
-
-![Wordcloud Spanish RQ1](https://github.com/mobileappsuccess/mobileappsuccess/blob/gh-pages/imgs/rq1-wordcloud-es.png "Wordcloud RQ1 Spanish")
+![rq1-wordcloud-es](https://user-images.githubusercontent.com/83440541/116957366-569d0880-ac5d-11eb-8b5a-4fc860f99fdf.png)
 
 Also, the next wordcloud shows the tags assigned by the authors:
+![rq1-wordcloud-en](https://user-images.githubusercontent.com/83440541/116957359-50a72780-ac5d-11eb-8e2a-ae811827327f.png)
 
-![Wordcloud English RQ1](https://github.com/mobileappsuccess/mobileappsuccess/blob/gh-pages/imgs/rq1-wordcloud-en.png "Wordcloud RQ1 English")
 
 ### RQ2 - What metrics are used by practitioners to measure mobile app success?
 
-Regarding monitoring frequency of internal metrics, the following imaga depicts survey participants frequency:
+Regarding monitoring frequency of online store metrics, the following imaga depicts survey participants frequency:
 ![Online store metrics - Monitoring frequency](https://user-images.githubusercontent.com/83440541/116956828-e5a92100-ac5b-11eb-85af-d27a747cd555.png)
 
+Regarding monitoring frequency of internal, the following imaga depicts survey participants frequency:
+![Internal metrics - Monitoring frequency](https://user-images.githubusercontent.com/83440541/116957344-4a18b000-ac5d-11eb-91d4-6666dc18785f.png)
+
+<p align="justify">
+For _number of downloads_, participant S17 stated: _"Es relativamente importante. A partir de cierta cantidad se ignora el número de descargas de una aplicación. Una aplicación con más de 500k descargas se podría considerar ya exitosa aunque es un número muy bajo comparado a los 5B de descargas que tiene NombreApp a la fecha."_, which was mentioned in the paper but translated to English: _"It is relatively important. After a certain amount, the number of downloads of an app
+is ignored. An app with more than 500k downloads could be considered successful even when the number is low compared with the 5B downloads of <AppName>"_. On the other hand, S1 mentioned one of the metric issues: _"...pueden haber usuarios que la instalaron pero no la siguieron usando"_. Also, participant S40 correlated number of downloads with user satisfaction: _“To evaluate user experience it is not important given that it is better to have 100/100 satisfied users with the experience than 1000/5000”_, in the original language: _"Para la evaluación de la experiencia no es tan importante ya que es preferible tener a 100/100 usuarios satisfechos con la experiencia que a 1000/5000"_.
+</p><br/>
+
+<p align="justify">
+For _rating_, participant S14 affirmed that _“Good comments attract more users, more users attract improvements in the app and by improving the app, different benefits are achieved.”_, which in Spanish means, _"Los buenos comentarios atraen más usuarios, más usuarios atraen mejoras en la app y al mejorar la app se logran varios beneficios "_. Also, S50 believes _rating_ should be used together with _number of ratings_: _"La opinión de varias personas dan una vista general de cómo se comporta la aplicación. Esto aplica cuando hay un número considerable de calificaciones. De lo contrario, no tengo en cuenta la calificación."_ Concerning the issues related with _rating_, S29 mentioned: _"Si bien es importante saber como las demás personas ven las apps, existen muchas con calificaciones elevadas o infladas ya que varias piden calificar la app en la tienda (incluso sugieren las 5 estrellas) para obtener algún beneficio o cambio dentro de la app"_, and S11 indicates the _rating_ is important depending on the app: _"Depende de la app. Si es un juego y tiene mala calificación, no lo descarto, porque he notado que varios malos comentarios y malas calificaciones son porque el juego no gustó, a pesar de que a mí sí me haya gustado."_
+</p><br/>
+
+<p align="justify">
+For _position in top charts_, S10 considers it as a semi relevant metric, since: _"El top no es tan relevante y es una cuestión de gustos en los usuarios, puede que las aplicación esté en el top de apps en tiendas pero si no genera solución a una necesidad o interés en los usuarios probablemente no la descarguen "_. However, _position in top charts_ is also influenced by the issues of _number of downloads_ and _rating_, as participant S50 mentioned: _"La posición dentreo de una tienda suele estar dada por el número de descargas recientes, que puede estar sesgada por los anuncios como mencionaba anteriormente. Los editor choice, me parece que son apps curadas y que tienen más relevancia."_
+</p><br/>
+
+<p align="justify">
+Finally, for _number of ratings_, participants also think it has issues since not all users rate the app, in particular, participant S1 mentioned: _"Aunque ayuda a tener mejores opiniones que se exponen a los usuarios, no me parece que sea directamente proporcional al valor de la app ya que puede que tengas un montón de usuarios que les gusta la app pero simplemente no han querido calificar."_
+</p><br/>
+
+<p align="justify">
+When comparing preferences between internal metrics and online store metrics, respondents agreed both metrics are important, respondent S38 mentioned they are complementary: _"Ambas, ya que presentan una manera diferente pero complementaria de ver el comportamiento de los usuarios frente a la aplicación desde funcionamiento y desde dinámicas de comportamiento general de la población (oferta, demanda, inconformidad con apps existentes...)"_, and participant S17 affirmed that both metrics should be kept high to provide a good app and used an example of a trending game: _"Siento que son importantes ambas acciones. Las métricas de las tiendas dan una idea de la posición de una app con respecto a las otras, lo que da opción a un análisis de estudio frente a la competencia para poder definir nuevos features. Las métricas del producto ayudan a medir la calidad del producto, y como ingeniero de software enfocado al testing siento que es muy importante la calidad de un producto porque puede aportar una mejor experiencia de usuario a las personas que hacen uso del aplicativo. Con pruebas insuficientes puede haber escenarios que lleguen a impactar negativamente la experiencia, como por ejemplo el juego de moda "JuegoNombre" que no estaba preparado para la concurrencia de usuarios que empezaron a usar la aplicación de un día para el otro."_
+</p><br/>
 
 ### RQ3 - What features would practitioners like in a tool that helps to measure/monitor mobile app success?
-Puntos importantes de encuestas, respuestas que dieron en español
+The main features were presented in the paper, however, the following figure depicts a wordcloud of the words used in the original language:
+![rq3-wordcloud-es](https://user-images.githubusercontent.com/83440541/116963124-910ea180-ac6d-11eb-824e-5380ce1889ed.png)
 
-
-<!--
-**mobileappsuccess/mobileappsuccess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, the next wordcloud presents the tags that were assigned by the authors:
+![rq3-wordcloud-en](https://user-images.githubusercontent.com/83440541/116963155-a257ae00-ac6d-11eb-97db-bc80056b96ee.png)
